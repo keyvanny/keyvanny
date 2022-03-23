@@ -1,0 +1,17 @@
+print("pupils Performance")
+print("Enter marks for this subjects")
+math = int(input("MATHEMATICS: "))
+eng = int(input("ENGLISH: "))
+kis = int(input("KISWAHILI: "))
+sci = int(input("SCIENCE: "))
+SOCCRE = int(input("SOCIAL/CRE: "))
+total = math+eng+kis+sci+SOCCRE
+print(total)print("pupils Performance")
+print("Enter marks for this subjects")
+math = int(input("MATHEMATICS: "))
+eng = int(input("ENGLISH: "))
+kis = int(input("KISWAHILI: "))
+sci = int(input("SCIENCE: "))
+SOCCRE = int(input("SOCIAL/CRE: "))
+total = math+eng+kis+sci+SOCCRE
+print(total)
